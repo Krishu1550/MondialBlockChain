@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MondialBlockChain.Abstractions/MondialBlockChain.Abstractions.csproj" />
+  <Project Path="MondialBlockChain.Contracts/MondialBlockChain.Contracts.csproj" />
+  <Project Path="MondialBlockChain.Core/MondialBlockChain.Core.csproj" />
+  <Project Path="MondialBlockChain.Events/MondialBlockChain.Events.csproj" />
+  <Project Path="MondialBlockChain.Tests/MondialBlockChain.Tests.csproj" />
+</Solution>
